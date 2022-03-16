@@ -26,8 +26,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 <h2 align="center">📫 How to reach me <a href="https://www.linkedin.com/in/andresarieldavico/">
-  <img align="left" alt="Ariel's LinkedIn" width="32px" src="https://raw.githubusercontent.com/andresarield/andresarield/main/linkedin.svg" />
+  <img align="center" alt="Ariel's LinkedIn" width="32px" src="https://raw.githubusercontent.com/andresarield/andresarield/main/linkedin.svg" />
 </a>
 <a href="mailto: andresarieldavico@gmail.com">
-  <img align="left" alt="Ariel's Email" width="32px" src="https://raw.githubusercontent.com/andresarield/andresarield/main/mail.png" />
+  <img align="center" alt="Ariel's Email" width="32px" src="https://raw.githubusercontent.com/andresarield/andresarield/main/mail.png" />
 </a>

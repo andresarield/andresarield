@@ -1,3 +1,9 @@
+# About myself
+
+A passionate individual who loves building web applications, a developer and musician by passion, a Master Builder by profession and an illustrator by interest.
+
+My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up Builder as a profession.
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -21,7 +27,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ### Full Stack Projects
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me: 

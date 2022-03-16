@@ -2,9 +2,9 @@
 
 # About myself
 
-A passionate individual who loves building web applications, a developer and musician by passion, a Master Builder by profession and an illustrator by interest.
+## A passionate individual who loves building web applications, a developer and musician by passion, a Master Builder by profession and an illustrator by interest.
 
-My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up Builder as a profession.
+## My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up Builder as a profession.
 
 ### Languages
 

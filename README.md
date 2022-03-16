@@ -2,27 +2,27 @@
 
 # About myself
 
-## A passionate individual who loves building web applications, a developer and musician by passion, a Master Builder by profession and an illustrator by interest.
+### A passionate individual who loves building web applications, a developer and musician by passion, a Master Builder by profession and an illustrator by interest.
 
-## My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up Builder as a profession.
+### My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up Builder as a profession.
 
-### Languages
+## Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Technologies
+## Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
-### Tools
+## Tools
 
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-###  📫 How to reach me: 
+##  📫 How to reach me: 

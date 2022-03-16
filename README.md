@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-<h2 align="center">📫 How to reach me <a href="https://www.linkedin.com/in/andresarieldavico/">
+<h2 align="center">📫 How to reach me: <a href="https://www.linkedin.com/in/andresarieldavico/">
   <img align="center" alt="Ariel's LinkedIn" width="32px" src="https://raw.githubusercontent.com/andresarield/andresarield/main/linkedin.svg" />
 </a>
 <a href="mailto: andresarieldavico@gmail.com">
